@@ -1,0 +1,1 @@
+The "ingest-" prefix in the ingestion endpoint URL is not a requirement, but rather a convention used to help distinguish ingestion endpoints from other endpoint URLs used for querying or other tasks in ADX.
